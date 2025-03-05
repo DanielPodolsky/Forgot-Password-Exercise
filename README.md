@@ -32,8 +32,8 @@ A simple Node.js application demonstrating password reset functionality using em
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/forgot-password-exercise.git
-   cd forgot-password-exercise
+   git clone https://github.com/DanielPodolsky/Forgot-Password-Exercise.git
+   cd Forgot-Password-Exercise
    ```
 
 2. Install dependencies
